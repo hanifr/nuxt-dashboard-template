@@ -1,0 +1,23 @@
+[
+  {
+    "name": "demo",
+    "path": "/demo",
+    "component": "/Users/aneh2killa/Documents/GitHub/nuxt-template/pages/demo.vue",
+    "chunkName": "pages/demo",
+    "_name": "_beff6750"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/aneh2killa/Documents/GitHub/nuxt-template/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_3c0009f5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/aneh2killa/Documents/GitHub/nuxt-template/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_129388ad"
+  }
+]

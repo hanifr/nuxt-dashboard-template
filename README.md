@@ -1,4 +1,4 @@
-# nuxt-template
+# mbsa-dashboard
 
 ## Build Setup
 
